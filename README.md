@@ -1,7 +1,6 @@
-### Olá 👋
-### Sou a Ana Oliveira
-Mãe da Anitta, Fã de Star Wars, aprecio umas cervejas atersanais, provavel me encontrar em eventos de tech, festivais, shows e exposições!
-
+<div align="center">
+  <h1> Hi, I'm Ana Oliveira! </h1>
+</div>
 
 ### Contatos:
 
