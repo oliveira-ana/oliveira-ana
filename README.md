@@ -17,7 +17,7 @@ Mãe da Anitta, Fã de Star Wars, aprecio umas cervejas atersanais, provavel me 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oliveira-ana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <br>
-![Snake animation](https://github.com/oliveira-ana/oliveira-ana/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/oliveira-ana/oliveira-ana/blob/output/github-contribution-grid-snake.svg">
 <!--
 **oliveira-ana/oliveira-ana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
